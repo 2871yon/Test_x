@@ -1,0 +1,36 @@
+
+<!-- <ul>
+    <li *ngFor="let k of gridList2">
+        name:{{k.name}}
+        sumProduct{{k.sumProduct}}
+    </li>
+</ul> -->
+
+<div>
+   
+        <!-- <table mat-table  class="mat-elevation-z8 demo-table">
+    <th mat-header-cell > Name </th>
+    <th mat-header-cell >  Sum Product</th>
+    <td mat-cell *ngFor="let k of gridList2"> {{k.name}} </td>
+</table> -->
+ <table mat-table [dataSource]="dataSource1   " class="mat-elevation-z8 demo-table">
+        <!--- Note that these columns can be defined in any order.
+              The actual rendered columns are set as a property on the row definition" -->
+    
+              
+        <!-- Name Column-->
+        <ng-container matColumnDef="name">
+          <th mat-header-cell *matHeaderCellDef> Name </th>
+          <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+        </ng-container>
+      
+        <!-- Symbol Column -->
+         <ng-container matColumnDef="sumProduct">
+          <th mat-header-cell *matHeaderCellDef> Sum Product</th>
+          <td mat-cell *matCellDef="let element"> {{element.sumProduct}} </td>
+        </ng-container>
+      
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr> 
+      </table>
+    </div>

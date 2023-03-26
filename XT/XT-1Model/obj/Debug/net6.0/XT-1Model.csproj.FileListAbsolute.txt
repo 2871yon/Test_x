@@ -1,0 +1,12 @@
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\bin\Debug\net6.0\XT-1Model.deps.json
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\bin\Debug\net6.0\XT-1Model.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\bin\Debug\net6.0\XT-1Model.pdb
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\obj\Debug\net6.0\XT-1Model.csproj.AssemblyReference.cache
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\obj\Debug\net6.0\XT-1Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\obj\Debug\net6.0\XT-1Model.AssemblyInfoInputs.cache
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\obj\Debug\net6.0\XT-1Model.AssemblyInfo.cs
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\obj\Debug\net6.0\XT-1Model.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\obj\Debug\net6.0\XT-1Model.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\obj\Debug\net6.0\refint\XT-1Model.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\obj\Debug\net6.0\XT-1Model.pdb
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Model\obj\Debug\net6.0\ref\XT-1Model.dll

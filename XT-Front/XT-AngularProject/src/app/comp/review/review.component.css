@@ -1,0 +1,14 @@
+/* mat-tab{
+    color:rgb(157, 233, 239);
+    
+}
+*{
+    background-color:rgb(19, 138, 243);
+} */
+.mat-mdc-menu-content,button{
+    background-color: rgb(21, 165, 165);
+}
+.mat-mdc-button .mat-mdc-button-touch-target, .mat-mdc-unelevated-button .mat-mdc-button-touch-target, .mat-mdc-raised-button .mat-mdc-button-touch-target, .mat-mdc-outlined-button .mat-mdc-button-touch-target{
+    background-color: rgb(21, 165, 165);
+
+}

@@ -1,0 +1,15 @@
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\XT-2Dal.csproj.AssemblyReference.cache
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\XT-2Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\XT-2Dal.AssemblyInfoInputs.cache
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\XT-2Dal.AssemblyInfo.cs
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\XT-2Dal.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\bin\Debug\net6.0\XT-2Dal.deps.json
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\bin\Debug\net6.0\XT-2Dal.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\bin\Debug\net6.0\XT-2Dal.pdb
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\bin\Debug\net6.0\XT-1Model.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\bin\Debug\net6.0\XT-1Model.pdb
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\XT-2Dal.csproj.CopyComplete
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\XT-2Dal.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\refint\XT-2Dal.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\XT-2Dal.pdb
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-1Dal\obj\Debug\net6.0\ref\XT-2Dal.dll

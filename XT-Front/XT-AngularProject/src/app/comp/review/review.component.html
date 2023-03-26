@@ -1,0 +1,9 @@
+<button mat-button [matMenuTriggerFor]="menu">Menu</button>
+ <mat-menu mat-menu #menu="matMenu"> 
+  <button mat-menu-item (click)="routingFunction('/grid1')">grid 1</button>
+  <button mat-menu-item (click)="routingFunction('/grid2')">grid 2</button>
+</mat-menu>
+
+ <router-outlet></router-outlet>
+
+

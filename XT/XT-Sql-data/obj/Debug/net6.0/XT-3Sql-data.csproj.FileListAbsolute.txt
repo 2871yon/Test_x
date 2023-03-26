@@ -1,0 +1,17 @@
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\XT-3Sql-data.csproj.AssemblyReference.cache
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\XT-3Sql-data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\XT-3Sql-data.AssemblyInfoInputs.cache
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\XT-3Sql-data.AssemblyInfo.cs
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\XT-3Sql-data.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\bin\Debug\net6.0\XT-3Sql-data.deps.json
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\bin\Debug\net6.0\XT-3Sql-data.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\bin\Debug\net6.0\XT-3Sql-data.pdb
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\bin\Debug\net6.0\XT-1Model.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\bin\Debug\net6.0\XT-2Dal.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\bin\Debug\net6.0\XT-2Dal.pdb
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\bin\Debug\net6.0\XT-1Model.pdb
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\XT-3Sql-data.csproj.CopyComplete
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\XT-3Sql-data.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\refint\XT-3Sql-data.dll
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\XT-3Sql-data.pdb
+C:\Users\משתמש\Documents\0000ציונט\Xnes\Test\XT\XT-Sql-data\obj\Debug\net6.0\ref\XT-3Sql-data.dll

@@ -1,0 +1,19 @@
+1)--------------------------------------
+create view helpView as
+SELECT CONVERT(INT,( SUBSTRING((select [quantity_per_unit]),0,(SELECT CHARINDEX(' ',(select [quantity_per_unit])))))) AS amount
+       ,(select right((select [quantity_per_unit]), (select CHARINDEX(' ', (SELECT REVERSE((select [quantity_per_unit])) )))) )AS contaner
+        from products
+2)--------------------------------------
+create table countContaner( c smallint,contaner varchar(50))
+go
+insert into countContaner 
+select  count(contaner) as c, contaner 
+from helpView
+ group by contaner
+ 3)--------------------------------------
+ create table sumContaner( c smallint,contaner varchar(50))
+go
+insert into sumContaner 
+select sum(amount)  as c, contaner 
+from helpView
+ group by contaner

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>XT_4Entites</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XT-1Model\XT-1Model.csproj" />
+    <ProjectReference Include="..\XT-Sql-data\XT-3Sql-data.csproj" />
+  </ItemGroup>
+
+</Project>

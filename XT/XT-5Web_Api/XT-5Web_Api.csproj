@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>XT_5Web_Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XT-1Dal\XT-2Dal.csproj" />
+    <ProjectReference Include="..\XT-1Model\XT-1Model.csproj" />
+    <ProjectReference Include="..\XT-4Entites\XT-4Entites.csproj" />
+    <ProjectReference Include="..\XT-Sql-data\XT-3Sql-data.csproj" />
+  </ItemGroup>
+
+</Project>
